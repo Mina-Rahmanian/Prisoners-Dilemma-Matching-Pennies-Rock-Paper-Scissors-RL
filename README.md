@@ -3,6 +3,6 @@
 
 ## Description
 
-In this project, we did three games in on form of a project. These games include: <br /> **Prisoner’s Dilemma**, **Matching pennies** & **Rock-Paper-Scissors**
+In this project, we did three games in one function. These games or two-player matrix games include: <br /> **Prisoner’s Dilemma**, **Matching pennies** & **Rock-Paper-Scissors**
 
 
