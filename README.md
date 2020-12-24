@@ -1,4 +1,4 @@
-# Three-Games-in-one---Reinforcement-Learning
+# Three-games-in-one-function--Reinforcement-Learning
 <br />
 
 ## Description
