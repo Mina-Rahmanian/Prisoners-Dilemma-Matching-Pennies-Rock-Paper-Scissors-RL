@@ -10,7 +10,7 @@ In this project, we did three games in one function. These games or two-player m
 Useful bits of knowledge before start:
 <br /> 
 
-**Prisoner’s Dilemma**, a game involving two criminals that need to decide whether they will cooperate with the police and defect on the accomplice or whether they will
++ **Prisoner’s Dilemma**: a game involving two criminals that need to decide whether they will cooperate with the police and defect on the accomplice or whether they will
 cooperate with the accomplice and lie to the police. The rewards for this game can be represented in matrices: 𝑅1 for player 1, and 𝑅2 for player 2. One example of reward matrix for this game is: <br /> 
 
 
