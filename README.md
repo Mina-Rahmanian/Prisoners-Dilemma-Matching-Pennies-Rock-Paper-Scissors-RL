@@ -10,7 +10,7 @@ In this project, we did three games in one function. These games or two-player m
 Useful bits of knowledge before start:
 <br /> 
 
-+ **Prisoner’s Dilemma**: a game involving two criminals that need to decide whether they will cooperate with the police and defect on the accomplice or whether they will
+1) **Prisoner’s Dilemma**: a game involving two criminals that need to decide whether they will cooperate with the police and defect on the accomplice or whether they will
 cooperate with the accomplice and lie to the police. The rewards for this game can be represented in matrices: 𝑅1 for player 1, and 𝑅2 for player 2. One example of reward matrix for this game is: <br /> 
 
 
@@ -25,6 +25,7 @@ Where the first row represents cooperation with the accomplice and lying to the 
 <img width="185" height="76" alt="2mat" src="https://user-images.githubusercontent.com/71558720/103111884-82f5a800-461f-11eb-9dbe-cfd290a89a6b.PNG"><br />
 <p align="center">
 
+  
 ## Introduction 
 
 I should note that for all games, selected parameters are identical. The learning rate alpha = 0:01, the iteration is 40,000 and each Game is learned for 5 Trials. This provides the neater coding as well as better comparison. I also preferred to put the extra graphs for value trends in page 4 which is provided for more information and
