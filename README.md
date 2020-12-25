@@ -3,13 +3,15 @@
 
 ## Description
 
-In this project, we did three games in one function. These games or two-player matrix games include: <br /> **Prisoner’s Dilemma**, **Matching pennies** & **Rock-Paper-Scissors** <br />
+In this project, we did three games in one function. These games or two-player matrix games include: <br /> 
+**Prisoner’s Dilemma**, **Matching pennies** & **Rock-Paper-Scissors** <br />
 
 Useful bits of knowledge before start:
 <br /> 
 
 **Prisoner’s Dilemma**, a game involving two criminals that need to decide whether they will cooperate with the police and defect on the accomplice or whether they will
-cooperate with the accomplice and lie to the police. The rewards for this game can be represented in matrices: 𝑅" for player 1, and 𝑅# for player 2. One example of reward matrix for this game is
+cooperate with the accomplice and lie to the police. The rewards for this game can be represented in matrices: 𝑅_{1} for player 1, and 𝑅# for player 2. One example of reward matrix for this game is: 
+R1
 
 
 
