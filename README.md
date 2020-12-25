@@ -1,3 +1,6 @@
+<script type="text/javascript" async src="//cdn.bootcss.com/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
 # Three-games-in-one-function--Reinforcement-Learning
 <br />
 
@@ -10,6 +13,15 @@ Useful bits of knowledge before start:
 
 **Prisoner’s Dilemma**, a game involving two criminals that need to decide whether they will cooperate with the police and defect on the accomplice or whether they will
 cooperate with the accomplice and lie to the police. The rewards for this game can be represented in matrices: 𝑅" for player 1, and 𝑅# for player 2. One example of reward matrix for this game is
+
+
+\\[
+\begin{bmatrix}
+2 & 8 & 1 \\\\
+3 & 7 & x \\\\
+6 & 4 & 5
+\end{bmatrix}
+\\]
 
 
 Where the first row represents cooperation with the accomplice and lying to the police, whereas the second row represents defection and confession to the police. The rewards are from player 1’s perspective. Therefore, if both players cooperate (element 𝑟","), both go to jail for a short period and have a large reward. If player 1 cooperates and player 2 does not, player 1 goes to jail for several years and has a very small reward (element 𝑟",#). If player 1 confesses and player 2 cooperates (element 𝑟",#), player 1 has a very large reward, i.e., it does not go to jail at all. Finally, if player 1 and 2 confess (element 𝑟#,#), both of them have a small reward, i.e., they go to jail for a couple of years. It should be clear that the reward matrix for player 2 is
