@@ -1,5 +1,5 @@
 
-# 3 games in one-function--Reinforcement-Learning
+# 3 games in one function Reinforcement Learning
 <br />
 
 ## Description
