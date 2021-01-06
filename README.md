@@ -2,16 +2,16 @@
 # 3 games (two player matrix) in one function using Reinforcement Learning
 <br />
 
-## Description
-
-In this project, we did three games in one function. These games or two-player matrix games include: <br /> 
-**Prisoner’s Dilemma**, **Matching pennies** & **Rock-Paper-Scissors** <br />
-
 Useful bits of knowledge before start:
 + First of all, please read The Reinforcment Learning book in second edition from this link ["Sutton & Barto" ](https://www.dbooks.org/reinforcement-learning-0262039249/).
 + There are absolutely free resources for Reinforcement Learning in [here](https://medium.com/datadriveninvestor/absolutely-free-resources-for-reinforcement-learning-d16a5230cb0f).
 + Also if you want to work with MATLAB you can read this link [RL with MATLAB](https://github.com/MinaR-90/Self-Driving-Cab-Using-Reinforcement-Learning/issues/1) too. 
 <br /><br /><br />
+
+## Description
+
+In this project, we did three games in one function. These games or two-player matrix games include: <br /> 
+**Prisoner’s Dilemma**, **Matching pennies** & **Rock-Paper-Scissors** <br />
 
 
 1) **Prisoner’s Dilemma**: a game involving two criminals that need to decide whether they will cooperate with the police and defect on the accomplice or whether they will
