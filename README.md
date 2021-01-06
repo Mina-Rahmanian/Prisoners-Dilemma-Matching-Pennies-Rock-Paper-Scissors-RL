@@ -1,5 +1,5 @@
 
-# 3 games in one function Reinforcement Learning
+# 3 games (two player matrix) in one function using Reinforcement Learning
 <br />
 
 ## Description
