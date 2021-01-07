@@ -32,7 +32,7 @@ Where the first row represents cooperation with the accomplice and lying to the 
 It turns out that this same approach can be used for several other games.<br /> <br /> 
 
 
-2)**Matching pennies**: In this game the two players hold a penny each. They independently show one side of the penny (actions are “head” or “tail”). If both pennies show the same figure (two heads or two tails), player1 wins the penny and has a reward of 1. If the pennies show different figures, player2 wins the penny and player1 has a reward of -1. The reward matrix for player1 is;<br />
+2) **Matching pennies**: In this game the two players hold a penny each. They independently show one side of the penny (actions are “head” or “tail”). If both pennies show the same figure (two heads or two tails), player1 wins the penny and has a reward of 1. If the pennies show different figures, player2 wins the penny and player1 has a reward of -1. The reward matrix for player1 is;<br />
 
 <p align="center">
 <img width="155" height="57" alt="33" src="https://user-images.githubusercontent.com/71558720/103926500-ffd85580-50e6-11eb-9745-48107f8edd31.PNG"> 
