@@ -14,7 +14,7 @@ In this project, we did three games in one function. These games or two-player m
 **Prisoner’s Dilemma**, **Matching pennies** & **Rock-Paper-Scissors** <br /><br />
 
 
-1) **``` +Prisoner’s Dilemma```**: It is a game involving two criminals that need to decide whether they will cooperate with the police and defect on the accomplice or whether they will
+1) **``Prisoner’s Dilemma``**: It is a game involving two criminals that need to decide whether they will cooperate with the police and defect on the accomplice or whether they will
 cooperate with the accomplice and lie to the police. The rewards for this game can be represented in matrices: 𝑅1 for player1, and 𝑅2 for player2. One example of reward matrix for this game is: <br /> 
 
 
@@ -32,7 +32,7 @@ Where the first row represents cooperation with the accomplice and lying to the 
 It turns out that this same approach can be used for several other games.<br /> <br /> 
 
 
-2) **Matching pennies**: In this game the two players hold a penny each. They independently show one side of the penny (actions are “head” or “tail”). If both pennies show the same figure (two heads or two tails), player1 wins the penny and has a reward of 1. If the pennies show different figures, player2 wins the penny and player1 has a reward of -1. The reward matrix for player1 is;<br />
+2) **``Matching pennies``**: In this game the two players hold a penny each. They independently show one side of the penny (actions are “head” or “tail”). If both pennies show the same figure (two heads or two tails), player1 wins the penny and has a reward of 1. If the pennies show different figures, player2 wins the penny and player1 has a reward of -1. The reward matrix for player1 is;<br />
 
 <p align="center">
 <img width="155" height="57" alt="33" src="https://user-images.githubusercontent.com/71558720/103926500-ffd85580-50e6-11eb-9745-48107f8edd31.PNG"> 
@@ -41,7 +41,7 @@ It turns out that this same approach can be used for several other games.<br /> 
 Then, player 2’s reward matrix is 𝑅# = −𝑅". <br /> <br />  
 
 
-3) **Rock-Paper-Scissors**: The idea for this game is to display your hand as either a rock, scissors, or paper. Then, paper covers rock, rock breaks scissors, and scissors cuts paper. If both players display the same thing, it is a tie. The reward matrix for player 1 is:
+3) **``Rock-Paper-Scissors``**: The idea for this game is to display your hand as either a rock, scissors, or paper. Then, paper covers rock, rock breaks scissors, and scissors cuts paper. If both players display the same thing, it is a tie. The reward matrix for player 1 is:
 
 <p align="center">
 <img width="155" height="67" alt="44" src="https://user-images.githubusercontent.com/71558720/103928504-edabe680-50e9-11eb-9d78-4d7e0ed0d9a4.PNG">
