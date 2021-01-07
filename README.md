@@ -15,7 +15,7 @@ In this project, we did three games in one function. These games or two-player m
 
 
 1) **Prisoner’s Dilemma**: a game involving two criminals that need to decide whether they will cooperate with the police and defect on the accomplice or whether they will
-cooperate with the accomplice and lie to the police. The rewards for this game can be represented in matrices: 𝑅1 for player 1, and 𝑅2 for player 2. One example of reward matrix for this game is: <br /> 
+cooperate with the accomplice and lie to the police. The rewards for this game can be represented in matrices: 𝑅1 for player1, and 𝑅2 for player2. One example of reward matrix for this game is: <br /> 
 
 
 <p align="center">
@@ -23,7 +23,7 @@ cooperate with the accomplice and lie to the police. The rewards for this game c
 <p align="center">
 
 
-Where the first row represents cooperation with the accomplice and lying to the police, whereas the second row represents defection and confession to the police. The rewards are from player 1’s perspective. Therefore, if both players cooperate (element 𝑟1,1), both go to jail for a short period and have a large reward. If player 1 cooperates and player 2 does not, player 1 goes to jail for several years and has a very small reward (element 𝑟1,2). If player 1 confesses and player 2 cooperates (element 𝑟1,2), player 1 has a very large reward, i.e., it does not go to jail at all. Finally, if player 1 and 2 confess (element 𝑟2,2), both of them have a small reward, i.e., they go to jail for a couple of years. It should be clear that the reward matrix for player 2 is: <br /> 
+Where the first row represents cooperation with the accomplice and lying to the police, whereas the second row represents defection and confession to the police. The rewards are from player1’s perspective. Therefore, if both players cooperate (element 𝑟1,1), both go to jail for a short period and have a large reward. If player1 cooperates and player2 does not, player1 goes to jail for several years and has a very small reward (element 𝑟1,2). If player1 confesses and player2 cooperates (element 𝑟1,2), player1 has a very large reward, i.e., it does not go to jail at all. Finally, if player1 and 2 confess (element 𝑟2,2), both of them have a small reward, i.e., they go to jail for a couple of years. It should be clear that the reward matrix for player 2 is: <br /> 
 
 <p align="center">
 <img width="185" height="76" alt="2mat" src="https://user-images.githubusercontent.com/71558720/103111884-82f5a800-461f-11eb-9dbe-cfd290a89a6b.PNG"><br />
