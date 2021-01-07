@@ -40,6 +40,8 @@ It turns out that this same approach can be used for several other games.<br /> 
   
 Then, player 2’s reward matrix is 𝑅# = −𝑅".
 
+3) **Rock-Paper-Scissors**: <span style="font-size:36;">word</span>
+
 ## Introduction 
 
 I should note that for all games, selected parameters are identical. The learning rate alpha = 0:01, the iteration is 40,000 and each Game is learned for 5 Trials. This provides the neater coding as well as better comparison. I also preferred to put the extra graphs for value trends in page 4 which is provided for more information and
