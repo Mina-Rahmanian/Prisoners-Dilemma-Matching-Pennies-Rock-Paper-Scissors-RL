@@ -36,7 +36,8 @@ It turns out that this same approach can be used for several other games.<br /> 
 
 <p align="center">
 <img width="155" height="57" alt="33" src="https://user-images.githubusercontent.com/71558720/103926500-ffd85580-50e6-11eb-9745-48107f8edd31.PNG"> 
-<p align="center"><br />  
+<p align="center">
+  
 Then, player 2’s reward matrix is 𝑅# = −𝑅".
 
 
@@ -44,7 +45,8 @@ Then, player 2’s reward matrix is 𝑅# = −𝑅".
 
 <p align="center">
 <img width="155" height="67" alt="44" src="https://user-images.githubusercontent.com/71558720/103928504-edabe680-50e9-11eb-9d78-4d7e0ed0d9a4.PNG">
-<p align="center"><br /> 
+<p align="center">
+  
 Again, player 2’s reward matrix is 𝑅# = −𝑅".
 
 ## Introduction 
