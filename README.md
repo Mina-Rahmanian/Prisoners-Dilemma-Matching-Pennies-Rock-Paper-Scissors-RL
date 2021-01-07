@@ -27,7 +27,7 @@ Where the first row represents cooperation with the accomplice and lying to the 
 
 <p align="center">
 <img width="175" height="66" alt="2mat" src="https://user-images.githubusercontent.com/71558720/103111884-82f5a800-461f-11eb-9dbe-cfd290a89a6b.PNG"><br />
-<p align="center"><br /> 
+<p align="center">
 
 It turns out that this same approach can be used for several other games.<br /> <br /> 
 
