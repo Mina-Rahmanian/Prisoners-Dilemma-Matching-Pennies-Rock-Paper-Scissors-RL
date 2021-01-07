@@ -8,7 +8,7 @@ Useful bits of knowledge before start:
 + Also if you want to work with MATLAB you can read this link [RL with MATLAB](https://github.com/MinaR-90/Self-Driving-Cab-Using-Reinforcement-Learning/issues/1) too. 
 <br /><br /><br />
 
-## Description
+## Games' Description
 
 In this project, we did three games in one function. These games or two-player matrix games include: <br /> 
 **Prisoner’s Dilemma**, **Matching pennies** & **Rock-Paper-Scissors** <br /><br />
@@ -38,7 +38,7 @@ It turns out that this same approach can be used for several other games.<br /> 
 <img width="155" height="57" alt="33" src="https://user-images.githubusercontent.com/71558720/103926500-ffd85580-50e6-11eb-9745-48107f8edd31.PNG"> 
 <p align="center">
   
-Then, player 2’s reward matrix is 𝑅# = −𝑅".
+Then, player 2’s reward matrix is 𝑅# = −𝑅". <br /> <br />  
 
 
 3) **Rock-Paper-Scissors**: The idea for this game is to display your hand as either a rock, scissors, or paper. Then, paper covers rock, rock breaks scissors, and scissors cuts paper. If both players display the same thing, it is a tie. The reward matrix for player 1 is:
@@ -47,7 +47,10 @@ Then, player 2’s reward matrix is 𝑅# = −𝑅".
 <img width="155" height="67" alt="44" src="https://user-images.githubusercontent.com/71558720/103928504-edabe680-50e9-11eb-9d78-4d7e0ed0d9a4.PNG">
 <p align="center">
   
-Again, player 2’s reward matrix is 𝑅# = −𝑅".
+Again, player 2’s reward matrix is 𝑅# = −𝑅". <br />  <br /> 
+
+
+We implemented an algorithm to iteratively calculate the optimal policies and the value of the game for each player in all three games.
 
 ## Introduction 
 
