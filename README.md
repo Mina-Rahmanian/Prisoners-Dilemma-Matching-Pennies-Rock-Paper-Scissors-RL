@@ -86,11 +86,23 @@ We should note that for all games, selected parameters are identical. The learni
 #### **Game 1 : Prisoner’s Dilemma**
 
 ```diff
-+ Table 1 shows the initial and final policies for each player in 5 Trials. The figure below that shows the policy trends for cooperation of both players. As we see the probability of Cooperation in both players goes to zero which means the probability of Defection settles in 1. 
-+ Players are playing simultaneously without knowing each others actions. Although the policies converge, the obtained results **are not** optimal. The reason is this policies do not results in achieving maximized long-run rewards. We can also interpret that by looking at the Value figures in the last page. It is clear that this values have not converged to a constant point, hence the taken policy is not optimal. One main reason is the policy update for all games is a predefined function, which means the policies are not determined such that the value function raises. The best reward seems to be obtained when Player1 decides to Defect and Player 2 tends to Cooperate. This is not what we achieve in this policy iteration. 
++ Table 1 shows the initial and final policies for each player in 5 Trials. The figure below that shows the
+policy trends for cooperation of both players. As we see the probability of Cooperation in both players
+goes to zero which means the probability of Defection settles in 1.
++ Players are playing simultaneously without knowing each others actions. Although the policies converge,
+the obtained results are not optimal. The reason is this policies do not results in achieving maximized
+long-run rewards. We can also interpret that by looking at the Value figures in the last page. It is clear
+that this values have not converged to a constant point, hence the taken policy is not optimal. One main
+reason is the policy update for all games is a predefined function, which means the policies are not
+determined such that the value function raises. The best reward seems to be obtained when Player 1
+decides to Defect and Player 2 tends to Cooperate. This is not what we achieve in this policy iteration.
 + Adding the Expectation term leaves the final Policies unchanged.
-+ As shown in Table 2 and the graph below, again the policies are not optimal because of the same reasons mentioned in part (b). The value in the last iteration is 1 for both players. This has been verified in the Simulation (page 4) and also can be proved mathematically by calculating the accumulated rewards. The Value is obtained by averaging the cumulative Rewards over the number of iteration to reach the final policy.
-+ After adding the additional term, the final results in this game are the same, but the speed of convergence decreases. That is mainly because of the lag created by the Expectation term in the update rule.
++ As shown in Table 2 and the graph below, again the policies are not optimal because of the same reasons
+mentioned in second item. The value in the last iteration is 1 for both players. This has been verified in 
+the Simulation and also can be proved mathematically by calculating the accumulated rewards. The Value is obtained by
+averaging the cumulative Rewards over the number of iteration to reach the final policy.
++ After adding the additional term, the final results in this game are the same, but the speed of convergence
+decreases. That is mainly because of the lag created by the Expectation term in the update rule.
 ```
 
 <p align="center">
