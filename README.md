@@ -38,7 +38,7 @@ It turns out that this same approach can be used for several other games.<br /> 
 <img width="155" height="57" alt="33" src="https://user-images.githubusercontent.com/71558720/103926500-ffd85580-50e6-11eb-9745-48107f8edd31.PNG"> 
 <p align="center">
   
-Then, player2’s reward matrix is 𝑅2 = −𝑅1. <br /> <br />  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then, player2’s reward matrix is 𝑅2 = −𝑅1. <br /> <br />  
 
 
 3) **``Rock-Paper-Scissors``**: The idea for this game is to display your hand as either a rock, scissors, or paper. Then, paper covers rock, rock breaks scissors, and scissors cuts paper. If both players display the same thing, it is a tie. The reward matrix for player 1 is:
@@ -47,7 +47,7 @@ Then, player2’s reward matrix is 𝑅2 = −𝑅1. <br /> <br />
 <img width="155" height="67" alt="44" src="https://user-images.githubusercontent.com/71558720/103928504-edabe680-50e9-11eb-9d78-4d7e0ed0d9a4.PNG">
 <p align="center">
   
-Again, player2’s reward matrix is 𝑅2 = −𝑅1. <br />  <br /> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Again, player2’s reward matrix is 𝑅2 = −𝑅1. <br />  <br /> 
 
 
 We implemented an algorithm to iteratively calculate the optimal policies and the value of the game for each player in all three games and also we use ``Python 3`` as Programming language to solve thease games in one function.<br />  <br /> 
