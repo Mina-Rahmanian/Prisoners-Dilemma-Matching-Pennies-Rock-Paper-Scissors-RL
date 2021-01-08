@@ -77,7 +77,7 @@ Then, we calculate the policies for each player. Also, we show graphs in differe
 c) We show the value of the game and we also say why the results are different. <br /> <br /> <br /><br /> <br /> 
 
 
-# Solving
+# Solution
 
 ### Introduction 
 
