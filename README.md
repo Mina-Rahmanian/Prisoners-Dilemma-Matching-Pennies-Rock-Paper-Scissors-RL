@@ -29,7 +29,7 @@ cooperate with the accomplice and lie to the police. The rewards for this game c
 <img width="175" height="66" alt="2mat" src="https://user-images.githubusercontent.com/71558720/103111884-82f5a800-461f-11eb-9dbe-cfd290a89a6b.PNG"><br />
 <p align="center">
 
-It turns out that this same approach can be used for several other games.<br /> <br /> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It turns out that this same approach can be used for several other games.<br /> <br /> 
 
 
 2) **``Matching pennies``**: In this game the two players hold a penny each. They independently show one side of the penny (actions are “head” or “tail”). If both pennies show the same figure (two heads or two tails), player1 wins the penny and has a reward of 1. If the pennies show different figures, player2 wins the penny and player1 has a reward of -1. The reward matrix for player1 is;<br />
@@ -47,7 +47,8 @@ It turns out that this same approach can be used for several other games.<br /> 
 <img width="155" height="67" alt="44" src="https://user-images.githubusercontent.com/71558720/103928504-edabe680-50e9-11eb-9d78-4d7e0ed0d9a4.PNG">
 <p align="center">
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Again, player2’s reward matrix is 𝑅2 = −𝑅1. <br />  <br /> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Again, player2’s reward matrix is 𝑅2 = −𝑅1. <br /> <br /> <br /> 
+
 
 
 We implemented an algorithm to iteratively calculate the optimal policies and the value of the game for each player in all three games and also we use ``Python 3`` as Programming language to solve thease games in one function.<br />  <br /> 
@@ -60,9 +61,23 @@ The algorithm is an every-visit update algorithm that does policy iteration. Obs
 
 <p align="center">
 <img width="520" height="80" alt="55" src="https://user-images.githubusercontent.com/71558720/103961884-7a26cb00-5123-11eb-891e-4ba84526c178.PNG">
+<p align="center"><br /> <br /> 
+  
+This algorithm works directly on the policies. We implemented the algorithm and for each one of the three games described above, calculate: 
+
+a) The policies for each player. We show graphs in different initial policy distributions. We explain, If the policies calculated are optimal.
+b) Modify the algorithm so another term is added:
+
 <p align="center">
-  
-  
+<img width="720" height="80" alt="66" src="https://user-images.githubusercontent.com/71558720/103961889-7c892500-5123-11eb-84ee-19d72f528b43.PNG">
+<p align="center">
+
+Then, we calculate the policies for each player. Also, we show graphs in different initial policy distributions. And, We explain If the policies calculated are optimal.
+
+c) We show the value of the game and we also say why the results are different. <br /> <br /> <br />
+
+
+********************************************************************************************************************************
 
 ## Introduction 
 
