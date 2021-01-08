@@ -74,17 +74,16 @@ b) Modify the algorithm so another term is added:
 
 Then, we calculate the policies for each player. Also, we show graphs in different initial policy distributions. And, We explain If the policies calculated are optimal.
 
-c) We show the value of the game and we also say why the results are different. <br /> <br /> <br />
+c) We show the value of the game and we also say why the results are different. <br /> <br /> <br /><br /> <br /> 
 
 
-********************************************************************************************************************************
+# Solving
 
 ## Introduction 
 
-I should note that for all games, selected parameters are identical. The learning rate alpha = 0:01, the iteration is 40,000 and each Game is learned for 5 Trials. This provides the neater coding as well as better comparison. I also preferred to put the extra graphs for value trends in the end of this report which is provided for more information and
-is also useful to support some explanation. 
+We should note that for all games, selected parameters are identical. The learning rate alpha = 0:01, the iteration is 40,000 and each Game is learned for 5 Trials. This provides the neater coding as well as better comparison. We also preferred to put the extra graphs for value trends in the end of this report which is provided for more information and is also useful to support some explanation. <br /> 
 
-
+#### **Game 1 : Prisoner’s Dilemma**
 
 
 
