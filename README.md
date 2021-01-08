@@ -90,7 +90,7 @@ We should note that for all games, selected parameters are identical. The learni
 policy trends for cooperation of both players. As we see the probability of Cooperation in both players
 goes to zero which means the probability of Defection settles in 1.
 + Players are playing simultaneously without knowing each others actions. Although the policies converge,
-the obtained results are not optimal. The reason is this policies do not results in achieving maximized
+the obtained results **are not** optimal. The reason is this policies do not results in achieving maximized
 long-run rewards. We can also interpret that by looking at the Value figures in the last page. It is clear
 that this values have not converged to a constant point, hence the taken policy is not optimal. One main
 reason is the policy update for all games is a predefined function, which means the policies are not
@@ -116,19 +116,35 @@ decreases. That is mainly because of the lag created by the Expectation term in 
   
   
   
+#### **Game 2 : Matching pennies**
   
   
+- As illustrated in Table 3, the final policies converge to different values for different initial Policies. Hence
+based on the policy update rule, there is no unique final Policy that Players can take in this game.  
+- Policies are not optimal. The main reason is the fluctuation occurring in the policy values. This instability
+is maintained and there is no consistent point that the Policy can settle in. It should be mentioned that
+the optimal policy is the one makes the long-term reward maximized for both players. This is only
+feasible when the probability of each action for each player become 50% i.e., pi = [0:5; 0:5].
+- As given in Table 4 and Figure below, the probability of both player approximately converges to a
+constant point.   
+- This policy **is** optimal since the value function and policies converge. 
+- Value for both players after adding the additional term are zero (in the end of this page). That both intuitively and
+mathematically expected since the base case scenario is when the coin drops unbalanced. That give a
+zero reward for both players.The increasing trend shows the optimal policy of the Game as well.
+- Adding the new term in the update rule, helps the policies to learn easier although the learning time
+increases. After enough iterations, both Players probability converges to 50% of selecting either actions.
+That is mainly because the probability of an action will increase if it had good reward in the previous
+steps.
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
+<p align="center">
+<img width="850" height="330" alt="table3" src="https://user-images.githubusercontent.com/71558720/103966423-d7277e80-512d-11eb-80f8-506661b3e57c.PNG">
+<p align="center">
+
+
+<p align="center">
+<img width="850" height="330" alt="table4" src="https://user-images.githubusercontent.com/71558720/103966424-d8f14200-512d-11eb-9f80-2cf345d818d4.PNG">
+<p align="center"><br /><br />  
   
   
   
