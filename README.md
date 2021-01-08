@@ -85,7 +85,7 @@ We should note that for all games, selected parameters are identical. The learni
 
 #### **Game 1 : Prisoner’s Dilemma**
 
-```diff
+
 + Table 1 shows the initial and final policies for each player in 5 Trials. The figure below that shows the
 policy trends for cooperation of both players. As we see the probability of Cooperation in both players
 goes to zero which means the probability of Defection settles in 1.
@@ -103,7 +103,7 @@ the Simulation and also can be proved mathematically by calculating the accumula
 averaging the cumulative Rewards over the number of iteration to reach the final policy.
 + After adding the additional term, the final results in this game are the same, but the speed of convergence
 decreases. That is mainly because of the lag created by the Expectation term in the update rule.
-```
+
 
 <p align="center">
 <img width="720" height="80" alt="tabel1" src="https://user-images.githubusercontent.com/71558720/103963602-b0664980-5127-11eb-8a00-0ce50be3dcc9.PNG">
