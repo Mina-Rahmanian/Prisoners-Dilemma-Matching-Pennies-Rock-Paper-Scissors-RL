@@ -150,6 +150,13 @@ _______________________________________________________________________
   
   
   
+#### **Game 3 : Rock-Paper-Scissors**  
   
-  
-  
+_ The Table 5 and the table below show the numerical results of for the final Policies with picking different
+Initial Policies. Again, different final Policies are obtained for different Initial Policies which shows the
+Policies do not converge to the unique. In this game, each Player can take 3 actions. To show a better
+graphical results, the Policy distribution of each action for individual Players 1 and 2 in separate Figures.
+_ Policies **are not** optimal. because again there is no points the final policy converge.
+_
+_
+_
