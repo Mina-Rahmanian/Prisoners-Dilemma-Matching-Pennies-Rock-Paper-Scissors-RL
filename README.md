@@ -106,7 +106,7 @@ decreases. That is mainly because of the lag created by the Expectation term in 
 
 
 <p align="center">
-<img width="850" height="260" alt="tabel1" src="https://user-images.githubusercontent.com/71558720/103963602-b0664980-5127-11eb-8a00-0ce50be3dcc9.PNG">
+<img width="870" height="270" alt="tabel1" src="https://user-images.githubusercontent.com/71558720/103963602-b0664980-5127-11eb-8a00-0ce50be3dcc9.PNG">
 <p align="center"><br />  
 
 ______________________________________________________________________
@@ -139,7 +139,7 @@ steps.
   
   
 <p align="center">
-<img width="850" height="330" alt="table3" src="https://user-images.githubusercontent.com/71558720/103966423-d7277e80-512d-11eb-80f8-506661b3e57c.PNG">
+<img width="870" height="340" alt="table3" src="https://user-images.githubusercontent.com/71558720/103966423-d7277e80-512d-11eb-80f8-506661b3e57c.PNG">
 <p align="center"><br />  
 
 _______________________________________________________________________
@@ -172,7 +172,7 @@ policy or converge faster.
 
 
 <p align="center">
-<img width="900" height="430" alt="table5" src="https://user-images.githubusercontent.com/71558720/103967086-39cd4a00-512f-11eb-8c80-d580588c6926.PNG">
+<img width="920" height="440" alt="table5" src="https://user-images.githubusercontent.com/71558720/103967086-39cd4a00-512f-11eb-8c80-d580588c6926.PNG">
 <p align="center"><br />  
 
 _______________________________________________________________________
