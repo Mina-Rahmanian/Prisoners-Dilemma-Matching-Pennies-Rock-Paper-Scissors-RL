@@ -61,7 +61,7 @@ The algorithm is an every-visit update algorithm that does policy iteration. Obs
 
 <p align="center">
 <img width="520" height="80" alt="55" src="https://user-images.githubusercontent.com/71558720/103961884-7a26cb00-5123-11eb-891e-4ba84526c178.PNG">
-<p align="center"><br /> <br /> 
+<p align="center">
   
 This algorithm works directly on the policies. We implemented the algorithm and for each one of the three games described above, calculate: 
 
