@@ -183,7 +183,7 @@ _______________________________________________________________________
   
   
   
-### Value of three games  
+# Value of Three Games  
   
 <p align="center">
 <img width="920" height="1270" alt="value1" src="https://user-images.githubusercontent.com/71558720/103967032-186c5e00-512f-11eb-9f40-41376db6e338.png">
