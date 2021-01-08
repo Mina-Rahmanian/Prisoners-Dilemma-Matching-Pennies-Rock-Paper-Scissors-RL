@@ -106,13 +106,13 @@ decreases. That is mainly because of the lag created by the Expectation term in 
 
 
 <p align="center">
-<img width="720" height="80" alt="tabel1" src="https://user-images.githubusercontent.com/71558720/103963602-b0664980-5127-11eb-8a00-0ce50be3dcc9.PNG">
+<img width="850" height="260" alt="tabel1" src="https://user-images.githubusercontent.com/71558720/103963602-b0664980-5127-11eb-8a00-0ce50be3dcc9.PNG">
 <p align="center">
 
 
 <p align="center">
-<img width="720" height="80" alt="table2" src="https://user-images.githubusercontent.com/71558720/103963607-b2c8a380-5127-11eb-9c5c-e2e43f292233.PNG">
-<p align="center">
+<img width="850" height="260" alt="table2" src="https://user-images.githubusercontent.com/71558720/103963607-b2c8a380-5127-11eb-9c5c-e2e43f292233.PNG">
+<p align="center"><br /><br />
   
   
   
