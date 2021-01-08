@@ -107,8 +107,9 @@ decreases. That is mainly because of the lag created by the Expectation term in 
 
 <p align="center">
 <img width="850" height="260" alt="tabel1" src="https://user-images.githubusercontent.com/71558720/103963602-b0664980-5127-11eb-8a00-0ce50be3dcc9.PNG">
-<p align="center">
+<p align="center"><br />  
 
+______________________________________________________________________
 
 <p align="center">
 <img width="850" height="260" alt="table2" src="https://user-images.githubusercontent.com/71558720/103963607-b2c8a380-5127-11eb-9c5c-e2e43f292233.PNG">
@@ -139,8 +140,9 @@ steps.
   
 <p align="center">
 <img width="850" height="330" alt="table3" src="https://user-images.githubusercontent.com/71558720/103966423-d7277e80-512d-11eb-80f8-506661b3e57c.PNG">
-<p align="center">
+<p align="center"><br />  
 
+_______________________________________________________________________
 
 <p align="center">
 <img width="850" height="330" alt="table4" src="https://user-images.githubusercontent.com/71558720/103966424-d8f14200-512d-11eb-9f80-2cf345d818d4.PNG">
