@@ -79,7 +79,7 @@ c) We show the value of the game and we also say why the results are different. 
 
 # Solving
 
-## Introduction 
+### Introduction 
 
 We should note that for all games, selected parameters are identical. The learning rate alpha = 0:01, the iteration is 40,000 and each Game is learned for 5 Trials. This provides the neater coding as well as better comparison. We also preferred to put the extra graphs for value trends in the end of this report which is provided for more information and is also useful to support some explanation. <br /> 
 
@@ -152,11 +152,46 @@ _______________________________________________________________________
   
 #### **Game 3 : Rock-Paper-Scissors**  
   
-_ The Table 5 and the table below show the numerical results of for the final Policies with picking different
+- The Table 5 and the table below show the numerical results of for the final Policies with picking different
 Initial Policies. Again, different final Policies are obtained for different Initial Policies which shows the
 Policies do not converge to the unique. In this game, each Player can take 3 actions. To show a better
 graphical results, the Policy distribution of each action for individual Players 1 and 2 in separate Figures.
-_ Policies **are not** optimal. because again there is no points the final policy converge.
-_
-_
-_
+- Policies **are not** optimal. because again there is no points the final policy converge.
+- Following the same way explained in part (a) we obtain the results which is summarized in Table 6 and
+Figures below. In this case, the final policies reach to approximately consistent values which is around
+the one-third probability for each action to be taken by both Players.
+- After adding the additional term, we can claim that the obtained policies are optimal. The best way for
+the Players to maximize their individual long-term reward is to choose among the actions with equal
+probabilities, which is roughly happening in the final policies.
+- The Values for both Player converges to zero after 40000 iterations. That is another main reason that the
+learned policies are optimal since the values reach to stable value showing that the policies are optimal.
+- The main reason for this improvement is considering the effect of the previous reward in updating the
+new policy. So the action which have a good reward now but not in the previous steps, will be taken less
+probable compared to the update rule without the Expectation term. That is why it leads to the optimal
+policy or converge faster.
+
+
+<p align="center">
+<img width="850" height="430" alt="table5" src="https://user-images.githubusercontent.com/71558720/103967086-39cd4a00-512f-11eb-8c80-d580588c6926.PNG">
+<p align="center"><br />  
+
+_______________________________________________________________________
+
+<p align="center">
+<img width="850" height="430" alt="table6" src="https://user-images.githubusercontent.com/71558720/103967029-16a29a80-512f-11eb-826b-ea1702809abd.PNG">
+<p align="center"><br /><br />  
+  
+  
+  
+### Value of three games  
+  
+<p align="center">
+<img width="850" height="830" alt="value1" src="https://user-images.githubusercontent.com/71558720/103967032-186c5e00-512f-11eb-9f40-41376db6e338.png">
+<p align="center"><br /><br />    
+  
+  
+  
+
+
+
+
