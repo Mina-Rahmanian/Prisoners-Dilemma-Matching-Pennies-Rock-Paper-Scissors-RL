@@ -172,13 +172,13 @@ policy or converge faster.
 
 
 <p align="center">
-<img width="850" height="430" alt="table5" src="https://user-images.githubusercontent.com/71558720/103967086-39cd4a00-512f-11eb-8c80-d580588c6926.PNG">
+<img width="900" height="430" alt="table5" src="https://user-images.githubusercontent.com/71558720/103967086-39cd4a00-512f-11eb-8c80-d580588c6926.PNG">
 <p align="center"><br />  
 
 _______________________________________________________________________
 
 <p align="center">
-<img width="850" height="430" alt="table6" src="https://user-images.githubusercontent.com/71558720/103967029-16a29a80-512f-11eb-826b-ea1702809abd.PNG">
+<img width="900" height="470" alt="table6" src="https://user-images.githubusercontent.com/71558720/103967029-16a29a80-512f-11eb-826b-ea1702809abd.PNG">
 <p align="center"><br /><br />  
   
   
@@ -186,7 +186,7 @@ _______________________________________________________________________
 ### Value of three games  
   
 <p align="center">
-<img width="850" height="830" alt="value1" src="https://user-images.githubusercontent.com/71558720/103967032-186c5e00-512f-11eb-9f40-41376db6e338.png">
+<img width="920" height="1270" alt="value1" src="https://user-images.githubusercontent.com/71558720/103967032-186c5e00-512f-11eb-9f40-41376db6e338.png">
 <p align="center"><br /><br />    
   
   
