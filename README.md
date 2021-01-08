@@ -66,6 +66,7 @@ The algorithm is an every-visit update algorithm that does policy iteration. Obs
 This algorithm works directly on the policies. We implemented the algorithm and for each one of the three games described above, calculate: 
 
 a) The policies for each player. We show graphs in different initial policy distributions. We explain, If the policies calculated are optimal.
+
 b) Modify the algorithm so another term is added:
 
 <p align="center">
